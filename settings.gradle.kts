@@ -23,3 +23,4 @@ rootProject.name = "KsPIguana"
 include(":app")
 include(":core")
 include(":core:common")
+include(":core:data")
