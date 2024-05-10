@@ -81,6 +81,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.compose)
     // Saved state module for ViewModel
     implementation(libs.lifecycleViewmodelSavedState)
+    implementation("androidx.compose.runtime:runtime-livedata:1.6.7")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
